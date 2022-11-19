@@ -5,5 +5,5 @@ type: wall
 requirements: [
     copper/120
 ]
-category: defence
+category: defense
 research: sz4block

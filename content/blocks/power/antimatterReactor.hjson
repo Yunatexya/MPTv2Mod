@@ -1,20 +1,20 @@
-name: Antimatter Reactor
-description: Very powerful power generator.
-type: PowerGenerator
-size: 7
-health: 98000000
-powerProduction : 99999999
-comsumes: [
-    items: {
-        item: [
-            coal/1
-        ]
-    }
-]
-requirements: [
-    metren/392
-    metrenGlass/39
-    metrenDiamond/59
-]
-category: power
-research: impact-reactor
+// name: Antimatter Reactor
+// description: Very powerful power generator.
+// type: PowerGenerator
+// size: 7
+// health: 98000000
+// powerProduction : 99999999
+// consumes: {
+//     items: {
+//         item: [
+//             coal/1
+//         ]
+//     }
+// }
+// requirements: [
+//     metren/392
+//     metrenGlass/39
+//     metrenDiamond/59
+// ]
+// category: power
+// research: impact-reactor
