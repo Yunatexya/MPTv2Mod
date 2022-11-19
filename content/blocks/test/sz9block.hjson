@@ -1,0 +1,9 @@
+name: Size 9 Block
+size: 9
+health: 1000
+type: wall
+requirements: [
+    copper/120
+]
+category: defence
+research: sz8block

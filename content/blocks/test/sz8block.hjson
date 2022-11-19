@@ -1,0 +1,9 @@
+name: Size 8 Block
+size: 8
+health: 1000
+type: wall
+requirements: [
+    copper/120
+]
+category: defence
+research: sz7block

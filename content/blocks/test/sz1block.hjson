@@ -1,0 +1,9 @@
+name: Size 1 Block
+size: 1
+health: 1000
+type: wall
+requirements: [
+    copper/120
+]
+category: defence
+research: copper-wall

@@ -1,0 +1,9 @@
+name: Size 7 Block
+size: 7
+health: 1000
+type: wall
+requirements: [
+    copper/120
+]
+category: defence
+research: sz6block

@@ -1,0 +1,9 @@
+name: Size 4 Block
+size: 4
+health: 1000
+type: wall
+requirements: [
+    copper/120
+]
+category: defence
+research: sz3block
